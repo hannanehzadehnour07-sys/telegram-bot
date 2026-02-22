@@ -33,7 +33,7 @@ logging.basicConfig(level=logging.INFO)
     EXTRA,
 ) = range(17)
 
-TOKEN = "8397063236:AAEj_lqJHivkQ-DaE_7CulJgAZNDMjXDSMQ"
+
 ADMIN_ID = 7373612882
 
 
@@ -257,4 +257,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
